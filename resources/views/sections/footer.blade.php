@@ -13,7 +13,7 @@
     <div class="col-md-4">
         <div class="info">
             <ul class="list-unstyled">
-                <li><a href="">3ra calle 2-35 zona 3 ciudad vieja</a></li>
+                <li><a href="" class="text-dark">3ra calle 2-35 zona 3 ciudad vieja</a></li>
                 <li><a href="">49177890</a></li>
                 <li><a href="">quiroareina@gmail.com</a></li>
             </ul>

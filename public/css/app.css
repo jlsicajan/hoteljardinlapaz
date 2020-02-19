@@ -11,19 +11,47 @@
 }
 
 .inside_one {
-  background-image: url("/images/hotel_images/one.jpeg");
+  background-image: url("/images/hotel_images/one.jpg");
 }
 
 .inside_two {
-  background-image: url("/images/hotel_images/two.jpeg");
+  background-image: url("/images/hotel_images/two.jpg");
 }
 
 .inside_three {
-  background-image: url("/images/hotel_images/three.jpeg");
+  background-image: url("/images/hotel_images/three.jpg");
 }
 
 .inside_four {
-  background-image: url("/images/hotel_images/four.jpeg");
+  background-image: url("/images/hotel_images/four.jpg");
+}
+
+.inside_five {
+  background-image: url("/images/hotel_images/five.jpg");
+}
+
+.inside_six {
+  background-image: url("/images/hotel_images/six.jpg");
+}
+
+.inside_seven {
+  background-image: url("/images/hotel_images/seven.jpg");
+}
+
+.inside_nine {
+  background-image: url("/images/hotel_images/nine.jpg");
+}
+
+.inside_eleven {
+  background-image: url("/images/hotel_images/eleven.jpg");
+}
+
+.inside_twelve {
+  background-image: url("/images/hotel_images/twelve.jpg");
+}
+
+.garden_one {
+  background-image: url("/images/hotel_images/garden.jpg");
 }
 
 .h-main {
@@ -91,10 +119,6 @@
   background-image: url("/images/logo/logo_two.png");
 }
 
-.custom_header {
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
-}
-
 .section_one .section_one_card {
   max-width: 600px;
   padding: 80px 50px;
@@ -116,6 +140,43 @@
 
 .background_secondary_custom {
   background-color: #BBDC00 !important;
+}
+
+.custom_header {
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+.menu_sticky,
+.menu_sticky_reserve {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  width: 100px;
+  height: 100px;
+  color: white;
+  background-color: #1E2B31;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.menu_sticky i,
+.menu_sticky_reserve i {
+  font-size: 30px;
+}
+
+.menu_sticky_reserve {
+  right: 0;
+  left: unset;
+}
+
+.menu_sticky_reserve a {
+  text-decoration: none;
+}
+
+.menu_sticky_reserve a:hover,
+.menu_sticky_reserve a:focus {
+  text-decoration: underline;
 }
 
 .footer .footer_icons {

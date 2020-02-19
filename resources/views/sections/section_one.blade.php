@@ -1,5 +1,5 @@
 <div class="row vh100 section_one">
-    <div class="col-md-12 inside_three padding-50-px background_default">
+    <div class="col-md-12 garden_one padding-50-px background_default">
         <div class="row">
             <div class="col-md-7"></div>
             <div class="col-md-5 section_one_card">

@@ -1,0 +1,34 @@
+.custom_header {
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.50);
+}
+
+.menu_sticky, .menu_sticky_reserve {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: #1E2B31;
+    font-size: 18px;
+    cursor: pointer;
+
+    i {
+        font-size: 30px;
+    }
+}
+
+.menu_sticky_reserve {
+    right: 0;
+    left: unset;
+
+    a {
+        text-decoration: none;
+
+        &:hover,
+        &:focus {
+            text-decoration: underline;
+        }
+    }
+}
