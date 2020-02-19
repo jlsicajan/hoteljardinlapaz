@@ -1,26 +1,4 @@
 <div class="row vh100">
-    <div class="col-md-2">
-        <div class="menu-center">
-            <div class="btn-group dropright">
-                <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    MENU
-                </button>
-                <div class="fixed-bottom">
-                    <div class="dropdown-menu">
-                        <nav>
-                            <ul>
-                                <li>HOME</li>
-                                <li>ABOUT</li>
-                                <li>TESTIMONIALS</li>
-                                <li>CONTACT US</li>
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div><!--col-md-2-->
     <div class="col-md-12">
         <div id="carousel_indicators" class="carousel slide padding-50-px" data-ride="carousel">
             <ol class="carousel-indicators">
