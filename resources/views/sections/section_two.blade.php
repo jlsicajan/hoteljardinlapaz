@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <h2><strong>HABITACIONES</strong></h2>
-                <h3>Elige la mejor comodidad</h3>
+                <h3 class="padding-unset text_secondary_color">Elige la mejor comodidad</h3>
             </div>
         </div>
     </div>

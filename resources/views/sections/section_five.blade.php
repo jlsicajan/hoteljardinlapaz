@@ -1,7 +1,7 @@
 <div class="row vh100 section_five padding-unset">
     <div class="col-md-12 h-10px text-center">
         <h2 class="text-uppercase"><strong>Galeria de fotos</strong></h2>
-        <h3>Descubra la elegancia de nuestra residencia</h3>
+        <h3 class="text_secondary_color">Descubra la elegancia de nuestra residencia</h3>
     </div>
     <div class="row col-md-12 h-75 padding-unset margin-x-unset">
         <div class="row col-md-6 pb-3 padding-x-unset margin-x-unset">

@@ -1,22 +1,18 @@
 <div class="row footer background_secondary_custom pt-5 pb-5">
-    <div class="col-md-4">
-        <div class="logo">
-
-        </div>
+    <div class="col-md-6 sections">
+        <a href="https://www.facebook.com/hoteljardinlapaz" class="text-dark no_style_text" target="_blank">
+            <i class="fab fa-facebook-square footer_icons large_icon"></i>
+        </a>
+        <br>
+        <a href="https://www.facebook.com/hoteljardinlapaz" class="text-dark no_style_text" target="_blank">
+            <i class="fab fa-instagram footer_icons large_icon"></i>
+        </a>
     </div>
-    <div class="col-md-4">
-        <div class="sections">
-            <i class="fab fa-facebook-square footer_icons"></i>
-            <i class="fab fa-instagram footer_icons"></i>
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="info">
-            <ul class="list-unstyled">
-                <li><a href="" class="text-dark">3ra calle 2-35 zona 3 ciudad vieja</a></li>
-                <li><a href="">49177890</a></li>
-                <li><a href="">quiroareina@gmail.com</a></li>
-            </ul>
-        </div>
+    <div class="col-md-6 info">
+        <ul class="list-unstyled">
+            <li><a href="" class="text-dark no_style_text">Primera calle Canton 1 Apartamento 31-A Alotenango</a></li>
+            <li><a href="" class="text-dark no_style_text">(+ 502) 4489 3766</a></li>
+            <li><a href="" class="text-dark no_style_text">hoteljardinlapaz@gmail.com</a></li>
+        </ul>
     </div>
 </div>

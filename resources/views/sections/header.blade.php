@@ -11,33 +11,33 @@
                     <div class="inside_one carousel-image"></div>
                     <div class="carousel-caption d-none d-md-block">
                         <div class="center">
-                            <h1><strong>HOTEL </strong></h1>
-                            <h2>con encanto</h2>
+                            <h1 class="text_third_color"><strong>HOTEL </strong></h1>
+                            <h2 class="text_third_color">con encanto</h2>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="inside_two carousel-image"></div>
                     <div class="carousel-caption d-none d-md-block">
-                        <h1><strong>HABITACIONES</strong></h1>
-                        <h2>confortables</h2>
+                        <h1 class="text_third_color"><strong>HABITACIONES</strong></h1>
+                        <h2 class="text_third_color">confortables</h2>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="inside_three carousel-image"></div>
                     <div class="carousel-caption d-none d-md-block">
-                        <h1><strong>HAMBIENTE</strong></h1>
-                        <h2>relajante</h2>
+                        <h1 class="text_third_color"><strong>HAMBIENTE</strong></h1>
+                        <h2 class="text_third_color">relajante</h2>
                     </div>
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carousel_indicators" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
+                <span class="sr-only">Anterior</span>
             </a>
             <a class="carousel-control-next" href="#carousel_indicators" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
+                <span class="sr-only">Siguiente</span>
             </a>
         </div>
 

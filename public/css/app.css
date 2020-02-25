@@ -1,15 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Nunito);@charset "UTF-8";
 
-.padding-50-px {
-  padding: 50px !important;
-}
-
-.menu-center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .inside_one {
   background-image: url("/images/hotel_images/one.jpg");
 }
@@ -52,6 +42,32 @@
 
 .garden_one {
   background-image: url("/images/hotel_images/garden.jpg");
+}
+
+.garden_2_blurry {
+  background-image: url("/images/hotel_images/garden_2_blurry.jpg");
+}
+
+.inside_1 {
+  background-image: url("/images/hotel_images/inside_1.jpg");
+}
+
+.medium_icon {
+  font-size: 30px !important;
+}
+
+.large_icon {
+  font-size: 45px !important;
+}
+
+.padding-50-px {
+  padding: 50px !important;
+}
+
+.menu-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .h-main {
@@ -142,6 +158,30 @@
   background-color: #BBDC00 !important;
 }
 
+.text_secondary_color {
+  color: #BBDC00 !important;
+}
+
+.text_third_color {
+  color: #90292A !important;
+}
+
+.no_style_text {
+  text-decoration: none;
+}
+
+.no_style_text:hover {
+  text-decoration: none !important;
+}
+
+.section_three_box_shadow {
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+.h-236 {
+  height: 230px !important;
+}
+
 .custom_header {
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
 }
@@ -176,7 +216,11 @@
 
 .menu_sticky_reserve a:hover,
 .menu_sticky_reserve a:focus {
-  text-decoration: underline;
+  text-decoration: none;
+}
+
+.footer {
+  text-align: center;
 }
 
 .footer .footer_icons {

@@ -8,50 +8,6 @@
     align-items: center;
 }
 
-.inside_one {
-    background-image: url("/images/hotel_images/one.jpg");
-}
-
-.inside_two {
-    background-image: url("/images/hotel_images/two.jpg");
-}
-
-.inside_three {
-    background-image: url("/images/hotel_images/three.jpg");
-}
-
-.inside_four {
-    background-image: url("/images/hotel_images/four.jpg");
-}
-
-.inside_five {
-    background-image: url("/images/hotel_images/five.jpg");
-}
-
-.inside_six {
-    background-image: url("/images/hotel_images/six.jpg");
-}
-
-.inside_seven {
-    background-image: url("/images/hotel_images/seven.jpg");
-}
-
-.inside_nine {
-    background-image: url("/images/hotel_images/nine.jpg");
-}
-
-.inside_eleven {
-    background-image: url("/images/hotel_images/eleven.jpg");
-}
-
-.inside_twelve {
-    background-image: url("/images/hotel_images/twelve.jpg");
-}
-
-.garden_one{
-    background-image: url("/images/hotel_images/garden.jpg");
-}
-
 .h-main {
     height: calc(150vh - 100px);
 }
@@ -144,4 +100,28 @@
 
 .background_secondary_custom {
     background-color: #BBDC00 !important;
+}
+
+.text_secondary_color {
+    color: #BBDC00 !important;
+}
+
+.text_third_color {
+    color: #90292A !important;
+}
+
+.no_style_text {
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: none !important;
+    }
+}
+
+.section_three_box_shadow {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.30);
+}
+
+.h-236 {
+    height: 230px !important;
 }
