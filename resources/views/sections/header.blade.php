@@ -11,23 +11,23 @@
                     <div class="inside_one carousel-image"></div>
                     <div class="carousel-caption d-none d-md-block">
                         <div class="center">
-                            <h1 class="text_third_color"><strong>HOTEL </strong></h1>
-                            <h2 class="text_third_color">con encanto</h2>
+                            <h1 class="text-light text_shadow_primary"><strong>HOTEL </strong></h1>
+                            <h2 class="text-light text_shadow_primary">con encanto</h2>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="inside_two carousel-image"></div>
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 class="text_third_color"><strong>HABITACIONES</strong></h1>
-                        <h2 class="text_third_color">confortables</h2>
+                        <h1 class="text-light text_shadow_primary"><strong>HABITACIONES</strong></h1>
+                        <h2 class="text-light text_shadow_primary">confortables</h2>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="inside_three carousel-image"></div>
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 class="text_third_color"><strong>HAMBIENTE</strong></h1>
-                        <h2 class="text_third_color">relajante</h2>
+                        <h1 class="text-light text_shadow_primary"><strong>HAMBIENTE</strong></h1>
+                        <h2 class="text-light text_shadow_primary">relajante</h2>
                     </div>
                 </div>
             </div>

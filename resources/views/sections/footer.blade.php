@@ -1,5 +1,15 @@
-<div class="row footer background_secondary_custom pt-5 pb-5">
-    <div class="col-md-6 sections">
+<div class="row footer background_secondary_custom pt-5 pb-4">
+    <div class="col-md-4">
+        <ol CLASS="">
+            <li><a class="text-dark no_style_text" href="header.blade.php">EL HOTEL</a></li>
+            <li><a class="text-dark no_style_text" href="section_one.blade.php">ACERCA DE NOSOTROS</a></li>
+            <li><a class="text-dark no_style_text" href="section_two.blade.php">HABITACIONES</a></li>
+            <li><a class="text-dark no_style_text" href="section_three.blade.php">OFERTAS</a></li>
+            <li><a class="text-dark no_style_text" href="section_four.blade.php">ANTIGUA Y SUS ALREDEDORES</a></li>
+            <li><a class="text-dark no_style_text" href="section_five.blade.php">GALERIA</a></li>
+        </ol>
+    </div>
+    <div class="col-md-4 sections info">
         <a href="https://www.facebook.com/hoteljardinlapaz" class="text-dark no_style_text" target="_blank">
             <i class="fab fa-facebook-square footer_icons large_icon"></i>
         </a>
@@ -8,11 +18,11 @@
             <i class="fab fa-instagram footer_icons large_icon"></i>
         </a>
     </div>
-    <div class="col-md-6 info">
+    <div class="col-md-4 info">
         <ul class="list-unstyled">
-            <li><a href="" class="text-dark no_style_text">Primera calle Canton 1 Apartamento 31-A Alotenango</a></li>
+            <li><a href="https://www.google.com/maps/place/Hotel+Jardin+La+Paz/@14.5243201,-90.5950334,17z/data=!3m1!4b1!4m5!3m4!1s0x8589a7c051353e21:0xd16995a3f8fa7bd8!8m2!3d14.5243201!4d-90.5928447" class="text-dark no_style_text">Primera calle Canton 1 Apartamento 31-A Alotenango</a></li>
             <li><a href="" class="text-dark no_style_text">(+ 502) 4489 3766</a></li>
-            <li><a href="" class="text-dark no_style_text">hoteljardinlapaz@gmail.com</a></li>
+            <li><a href="hoteljardinlapaz@gmail.com" class="text-dark no_style_text">hoteljardinlapaz@gmail.com</a></li>
         </ul>
     </div>
 </div>

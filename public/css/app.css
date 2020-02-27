@@ -60,6 +60,10 @@
   font-size: 45px !important;
 }
 
+.text_shadow_primary {
+  text-shadow: 2px 2px 4px #000000 !important;
+}
+
 .padding-50-px {
   padding: 50px !important;
 }
@@ -171,7 +175,8 @@
 }
 
 .no_style_text:hover {
-  text-decoration: none !important;
+  color: #90292A !important;
+  list-style: none !important;
 }
 
 .section_three_box_shadow {
@@ -219,11 +224,11 @@
   text-decoration: none;
 }
 
-.footer {
+.info {
   text-align: center;
 }
 
-.footer .footer_icons {
+.footer_icons {
   font-size: 25px;
 }
 
