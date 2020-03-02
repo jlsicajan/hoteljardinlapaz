@@ -1,8 +1,26 @@
 // Phones
 @media (max-width: 575.98px) {
     .vh100 {
-        height: 75vh;
+        height: calc(100vh - 100px);
     }
+
+    .padding-50-px {
+        padding: 20px !important;
+    }
+
+    .carousel-image {
+        height: calc(75vh - 100px);
+    }
+
+    .section_one {
+        .section_one_card {
+            max-width: 600px;
+            padding: 80px 50px;
+            background: rgba(241, 244, 246, 0.90);
+            box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.30);
+        }
+    }
+
 }
 
 // Small devices (landscape phones, less than 768px)

@@ -109,7 +109,6 @@
 }
 
 .carousel-image {
-  height: 100vh;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -188,7 +187,22 @@
 
 @media (max-width: 575.98px) {
   .vh100 {
-    height: 50vh;
+    height: calc(100vh - 100px);
+  }
+
+  .padding-50-px {
+    padding: 20px !important;
+  }
+
+  .carousel-image {
+    height: calc(75vh - 100px);
+  }
+
+  .section_one .section_one_card {
+    max-width: 600px;
+    padding: 80px 50px;
+    background: rgba(241, 244, 246, 0.9);
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3);
   }
 }
 
@@ -227,6 +241,29 @@
 .menu_sticky_reserve a:hover,
 .menu_sticky_reserve a:focus {
   text-decoration: none;
+}
+
+@media (max-width: 575.98px) {
+  .custom_header {
+    margin-top: 50px;
+  }
+
+  .menu_sticky,
+  .menu_sticky_reserve {
+    width: 75px;
+    height: 75px;
+    font-size: 12px;
+  }
+
+  .menu_sticky i,
+  .menu_sticky_reserve i {
+    font-size: 24px;
+  }
+
+  .logo_fixed {
+    width: 75px;
+    height: 75px;
+  }
 }
 
 .info {
