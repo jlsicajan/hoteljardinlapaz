@@ -186,6 +186,12 @@
   height: 230px !important;
 }
 
+@media (max-width: 575.98px) {
+  .vh100 {
+    height: 50vh;
+  }
+}
+
 .custom_header {
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
 }

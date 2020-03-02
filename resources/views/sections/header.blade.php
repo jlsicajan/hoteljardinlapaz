@@ -1,5 +1,5 @@
-<section id="header">
-    <div class="row vh100">
+
+    <div class="row vh100 vh-xs-50">
         <div class="col-md-12">
             <div id="carousel_indicators" class="carousel slide padding-50-px" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -27,7 +27,7 @@
                     <div class="carousel-item">
                         <div class="inside_three carousel-image"></div>
                         <div class="carousel-caption d-none d-md-block">
-                            <h1 class="text-light text_shadow_primary"><strong>HAMBIENTE</strong></h1>
+                            <h1 class="text-light text_shadow_primary"><strong>AMBIENTE</strong></h1>
                             <h2 class="text-light text_shadow_primary">relajante</h2>
                         </div>
                     </div>
@@ -44,5 +44,3 @@
 
         </div>
     </div>
-</section>
-
