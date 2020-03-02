@@ -171,11 +171,10 @@
 }
 
 .no_style_text {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .no_style_text:hover {
-  color: #90292A !important;
   list-style: none !important;
 }
 

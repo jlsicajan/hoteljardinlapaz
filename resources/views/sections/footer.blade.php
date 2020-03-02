@@ -1,12 +1,12 @@
 <div class="row footer background_secondary_custom pt-5 pb-4">
     <div class="col-md-4">
         <ol CLASS="">
-            <li><a class="text-dark no_style_text" href="header.blade.php">EL HOTEL</a></li>
-            <li><a class="text-dark no_style_text" href="section_one.blade.php">ACERCA DE NOSOTROS</a></li>
-            <li><a class="text-dark no_style_text" href="section_two.blade.php">HABITACIONES</a></li>
-            <li><a class="text-dark no_style_text" href="section_three.blade.php">OFERTAS</a></li>
-            <li><a class="text-dark no_style_text" href="section_four.blade.php">ANTIGUA Y SUS ALREDEDORES</a></li>
-            <li><a class="text-dark no_style_text" href="section_five.blade.php">GALERIA</a></li>
+            <li><a class="text-dark no_style_text" href="#header">EL HOTEL</a></li>
+            <li><a class="text-dark no_style_text" href="#one">ACERCA DE NOSOTROS</a></li>
+            <li><a class="text-dark no_style_text" href="#two">HABITACIONES</a></li>
+            <li><a class="text-dark no_style_text" href="#three">OFERTAS</a></li>
+            <li><a class="text-dark no_style_text" href="#four">ANTIGUA Y SUS ALREDEDORES</a></li>
+            <li><a class="text-dark no_style_text" href="#five">GALERIA</a></li>
         </ol>
     </div>
     <div class="col-md-4 sections info">
