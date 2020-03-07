@@ -1,8 +1,7 @@
 <div class="row vh100 section_four padding-50-px">
     <div class="col-md-12 card_container background_default">
         <div class="section_four_card text-white d-flex flex-column align-items-center justify-content-center">
-            <div class="text_content p-100">
-                <div class="logo_line background_default mb-2"></div>
+            <div class="text_content p-100 text-center">
 
                 <h2><strong>ANTIGUA Y SUS ALREDEDORES</strong></h2>
 
