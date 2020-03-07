@@ -64,6 +64,10 @@
   text-shadow: 2px 2px 4px #000000 !important;
 }
 
+.p-100 {
+  padding: 100px !important;
+}
+
 .padding-50-px {
   padding: 50px !important;
 }
@@ -136,6 +140,13 @@
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
   background-image: url("/images/logo/logo_two.png");
+}
+
+.logo_line {
+  left: 50%;
+  width: 50px;
+  height: 50px;
+  background-image: url("/images/logo/logo_lines.jpeg");
 }
 
 .section_one .section_one_card {
