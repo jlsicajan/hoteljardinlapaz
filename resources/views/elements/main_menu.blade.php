@@ -1,4 +1,4 @@
-<div class="menu_sticky d-flex flex-column justify-content-center text-center">
+<div class="menu_sticky d-flex flex-column justify-content-center text-center hide invisible">
     <i class="fas fa-bars menu_icon"></i>
     <strong class="text-uppercase">Menu</strong>
 </div>
