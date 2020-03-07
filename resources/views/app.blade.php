@@ -50,12 +50,12 @@
           content="https://www.hoteljardinlapaz.com/images/logo/one.png"/>
     <meta property="og:image:width" content="2200"/>
     <meta property="og:image:height" content="1700"/>
-    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 </head>
 <body>
 @yield('content_body')
-<script type="text/javascript" src="/js/app.js"></script>
-<script type="text/javascript" src="/js/plugins/smartphoto.min.js?v=1"></script>
+<script type="text/javascript" src="{{ asset('js/app.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/plugins/smartphoto.min.js?v=1') }}"></script>
 <script>
     window.addEventListener('load',function(){
         new SmartPhoto(".js-img-viwer");
