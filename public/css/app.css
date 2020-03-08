@@ -664,6 +664,19 @@
   background-image: url("/images/hotel_images/inside_1.jpg");
 }
 
+.logo_negative {
+  width: 125px;
+  height: 125px;
+  background-image: url("/images/logo/negative_logo.jpeg");
+}
+
+.only_logo {
+  left: 50%;
+  width: 50px;
+  height: 50px;
+  background-image: url("/images/logo/logo_only.jpeg");
+}
+
 .medium_icon {
   font-size: 30px !important;
 }
@@ -681,6 +694,10 @@
 }
 
 .padding-50-px {
+  padding: 50px !important;
+}
+
+.padding_sm_unset {
   padding: 50px !important;
 }
 
@@ -812,6 +829,18 @@
   height: 175px !important;
 }
 
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+.contact_map {
+  height: 750px;
+}
+
+.f_0_8 {
+  font-size: 0.8rem !important;
+}
+
 @media (max-width: 575.98px) {
   .vh100 {
     height: calc(100vh - 100px);
@@ -819,6 +848,10 @@
 
   .padding-50-px {
     padding: 20px !important;
+  }
+
+  .padding_sm_unset {
+    padding: 0px !important;
   }
 
   .carousel-image {
@@ -831,17 +864,37 @@
     background: rgba(241, 244, 246, 0.9);
     box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3);
   }
+
+  .contact_map {
+    height: 300px;
+  }
 }
 
 @media (max-width: 767.98px) {
   .padding-50-px {
     padding: 20px !important;
   }
+
+  .padding_sm_unset {
+    padding: unset !important;
+  }
+
+  .contact_map {
+    height: 300px;
+  }
 }
 
 @media (max-width: 991.98px) {
   .padding-50-px {
     padding: 25px !important;
+  }
+
+  .padding_sm_unser {
+    padding: unset !important;
+  }
+
+  .contact_map {
+    height: 250px;
   }
 }
 
@@ -911,6 +964,14 @@
 
 .footer_icons {
   font-size: 25px;
+}
+
+.background_third_custom {
+  background-color: #90292A !important;
+}
+
+.background_negative_color {
+  background-color: #272324 !important;
 }
 
 /*!

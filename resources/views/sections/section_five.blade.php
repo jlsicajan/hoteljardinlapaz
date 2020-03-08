@@ -1,7 +1,7 @@
-<div class="row col-md-12 section_five padding-unset">
+<div class="row col-md-12 section_five padding-unset mb-3 mt-5">
     <div class="col-md-12 text-center">
-        <div class="logo_line background_default mb-2 d-inline-block"></div>
-        <h2 class="text-uppercase"><strong>Galeria de fotos</strong></h2>
+        <div class="only_logo background_default mb-2 d-inline-block"></div>
+        <h2 class="text-uppercase"><i class="fa fa-seedling text_secondary_color"></i><strong> Galeria de fotos </strong> <i class="fa fa-seedling text_secondary_color"></i></h2>
         <h3 class="text_secondary_color">Descubra la elegancia de nuestra residencia</h3>
     </div>
 </div>

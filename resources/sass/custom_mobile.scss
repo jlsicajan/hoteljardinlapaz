@@ -8,6 +8,10 @@
         padding: 20px !important;
     }
 
+    .padding_sm_unset {
+        padding: 0px !important;
+    }
+
     .carousel-image {
         height: calc(75vh - 100px);
     }
@@ -21,12 +25,23 @@
         }
     }
 
+    .contact_map {
+        height: 300px;
+    }
 }
 
 // Small devices (landscape phones, less than 768px)
 @media (max-width: 767.98px) {
     .padding-50-px {
         padding: 20px !important;
+    }
+
+    .padding_sm_unset {
+        padding: unset !important;
+    }
+
+    .contact_map {
+        height: 300px;
     }
 
 }
@@ -37,6 +52,13 @@
         padding: 25px !important;
     }
 
+    .padding_sm_unser {
+        padding: unset !important;
+    }
+
+    .contact_map {
+        height: 250px;
+    }
 }
 
 // Large devices (desktops, less than 1200px)

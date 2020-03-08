@@ -2,6 +2,10 @@
     padding: 50px !important;
 }
 
+.padding_sm_unset {
+    padding: 50px !important;
+}
+
 .menu-center {
     display: flex;
     justify-content: center;
@@ -134,4 +138,16 @@
 
 .h-175 {
     height: 175px !important;
+}
+
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+.contact_map {
+    height: 750px;
+}
+
+.f_0_8 {
+    font-size: 0.8rem !important;
 }

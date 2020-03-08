@@ -1,6 +1,6 @@
 <div class="row vh100">
     <div class="col-12 col-md-12">
-        <div id="carousel_indicators" class="carousel slide padding-50-px" data-ride="carousel">
+        <div id="carousel_indicators" class="carousel slide padding_sm_unset" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carousel_indicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel_indicators" data-slide-to="1"></li>

@@ -10,7 +10,7 @@
         @include('sections.section_four')
         @include('sections.section_five')
 {{--        @include('sections.section_six')--}}
-{{--        @include('sections.section_seven')--}}
+        @include('sections.section_seven')
         @include('sections.footer')
     </div>
 @endsection
