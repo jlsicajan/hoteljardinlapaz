@@ -39,17 +39,6 @@
                 </div>
                 <div class="carousel-item">
                     <div class="carousel-image"
-                         style="background-image: url('/images/antigua_images/antigua_seven.jpg')"></div>
-                    <div class="carousel-caption d-none d-md-block">
-                        <h1 class="text-light text_shadow_primary"><strong>ANTIGUA Y SUS ALREDEDORES</strong></h1>
-                        <h2 class="text-light text_shadow_primary">Nullam egestas lectus eget posuere elementum. Aliquam urna erat, fermentum id rutrum sed, feugiat id
-                            magna. In justo tellus, ultricies et consequat non, consectetur in diam. Suspendisse dui libero,
-                            pharetra porttitor hendrerit fermentum, vehicula sed arcu. Maecenas laoreet facilisis vulputate.
-                            Quisque</h2>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="carousel-image"
                          style="background-image: url('/images/antigua_images/antigua_ten.jpg')"></div>
                     <div class="carousel-caption d-none d-md-block">
                         <h1 class="text-light text_shadow_primary"><strong>ANTIGUA Y SUS ALREDEDORES</strong></h1>
