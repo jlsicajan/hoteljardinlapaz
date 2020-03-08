@@ -1,4 +1,4 @@
-<div class="row col-md-12 section_five padding-unset mb-3 mt-5">
+<div class="row col-md-12 section_five padding-unset mb-3 mt-2">
     <div class="col-md-12 text-center">
         <div class="only_logo background_default mb-2 d-inline-block"></div>
         <h2 class="text-uppercase"><i class="fa fa-seedling text_secondary_color"></i><strong> Galeria de fotos </strong> <i class="fa fa-seedling text_secondary_color"></i></h2>
