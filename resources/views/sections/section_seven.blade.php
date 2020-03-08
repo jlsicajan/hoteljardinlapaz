@@ -6,7 +6,11 @@
 
             <span class="text-white">Tel. <a href="tel:+50244893766">+502 4489 3766</a></span><br>
             <a href="mailto:hoteljardinlapaz@gmail.com">hoteljardinlapaz@gmail.com</a>
-
+            <br/>
+            <hr>
+            <a href="https://goo.gl/maps/tCLAXGZTiBNdNps47" class="text-white no_style_text mt-2" target="_blank">
+                <i class="fas fa-location-arrow footer_icons large_icon"></i>
+            </a>
             {{--            <a href="https://www.waze.com/ul?ll=14.49109159%2C-90.80376148&navigate=yes&zoom=17"><i class="fa fa-waze"></i></a>--}}
         </div>
     </div>

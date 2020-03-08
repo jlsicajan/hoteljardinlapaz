@@ -1,5 +1,8 @@
 <div class="row footer background_secondary_custom pt-5 pb-4">
     <div class="col-md-6 sections info">
+        <a href="https://goo.gl/maps/tCLAXGZTiBNdNps47" class="text-dark no_style_text mr-2" target="_blank">
+            <i class="fas fa-map-marker-alt footer_icons large_icon"></i>
+        </a>
         <a href="https://www.facebook.com/hoteljardinlapaz" class="text-dark no_style_text mr-2" target="_blank">
             <i class="fab fa-facebook-square footer_icons large_icon"></i>
         </a>
