@@ -11,6 +11,9 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', 'FrontEndController@index')->name('home');
+
+Route::get('/nosotros', 'FrontEndController@about_us')->name('about-us');
+Route::get('/hotel', 'FrontEndController@hotel')->name('hotel');
+Route::get('/servicios', 'FrontEndController@services')->name('services');
+Route::get('/contactanos', 'FrontEndController@contact_us')->name('contact-us');

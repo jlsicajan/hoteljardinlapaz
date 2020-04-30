@@ -763,7 +763,7 @@
   width: 100px;
   height: 100px;
   background-color: white;
-  z-index: 1000;
+  z-index: 998;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
   padding-top: 10px;
   transform: translateX(-50%);
@@ -908,12 +908,27 @@
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
 }
 
+.menu {
+  background: #1E2B31;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
+
+.menu .inside_menu a:hover {
+  color: #BBDC00 !important;
+}
+
+.menu_sticky_close {
+  z-index: 999;
+}
+
 .menu_sticky,
 .menu_sticky_reserve {
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 1000;
+  z-index: 999;
   width: 100px;
   height: 100px;
   color: white;

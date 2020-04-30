@@ -61,6 +61,24 @@
         new SmartPhoto(".js-img-viwer");
         new SmartPhoto(".js-img-viwer-fit");
     });
+    $(document).ready(function(){
+        $('.menu_sticky_bar').on('click', function(){
+            $('.menu').addClass('d-flex').show().css('z-index', 999);
+            $(this).removeClass('d-flex').addClass('d-none').hide().css('z-index', 0);
+            $('.menu_sticky_close').removeClass('d-none').addClass('d-flex').show().css('z-index', 1000);
+
+            $('.menu_sticky_reserve').css('z-index', 1000);
+        });
+
+        $('.menu_sticky_close').on('click', function(){
+            $('.menu').removeClass('d-flex').hide().css('z-index', 0);
+            $(this).removeClass('d-flex').addClass('d-none').hide().css('z-index', 0);
+            $('.menu_sticky_bar').removeClass('d-none').addClass('d-flex').show().css('z-index', 1000);
+            
+            $('.menu_sticky_reserve').css('z-index', 999);
+        });
+
+    });
 </script>
 </body>
 </html>
