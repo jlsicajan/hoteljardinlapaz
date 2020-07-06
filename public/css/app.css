@@ -677,6 +677,10 @@
   background-image: url("/images/logo/logo_only.jpeg");
 }
 
+.room-21 {
+  background-image: url("/images/hotel_images/room_21.jpg");
+}
+
 .medium_icon {
   font-size: 30px !important;
 }
@@ -785,6 +789,20 @@
   box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3);
 }
 
+@media (min-width: 768px) {
+  .section_one .section_one_card {
+    overflow-y: auto;
+    max-height: 490px;
+  }
+}
+
+@media (min-width: 576px) {
+  .section_one .section_one_card {
+    overflow-y: auto;
+    max-height: 550px;
+  }
+}
+
 .section_four .card_container {
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
   background-image: url("/images/antigua_images/antigua_guatemala.png");
@@ -847,6 +865,22 @@
   background-color: grey;
 }
 
+a.no-style:link {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
+
+a.no-style:visited {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
+
+.footer_text {
+  font-size: 30px;
+}
+
 @media (max-width: 575.98px) {
   .vh100 {
     height: calc(100vh - 100px);
@@ -869,6 +903,8 @@
     padding: 80px 50px;
     background: rgba(241, 244, 246, 0.9);
     box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.3);
+    max-height: 490px;
+    overflow-y: auto;
   }
 
   .contact_map {

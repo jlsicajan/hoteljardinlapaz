@@ -9,7 +9,7 @@
             class="inside_container bg-white text-center section_three_box_shadow h-100 d-flex flex-column justify-content-center">
             <h3 class="text_secondary_color"><i class="fa fa-leaf text_secondary_color f_0_8"></i><strong> Parqueo
                     gratuito </strong><i class="fa fa-leaf text_secondary_color f_0_8"></i></h3>
-            <p>¡Una ventaja que nadie más puede presumir en el centro de Antigua!</p>
+            <h4>Un lugar seguro donde puedes dejar tu vehículo.</h4>
         </div>
     </div>
     <div class="col-md-6 p-2 h-236">
@@ -18,6 +18,7 @@
             <i class="fa fa-wine-glass-alt text-light medium_icon"></i>
             <h3 class="text-light"><i class="fa fa-leaf text-white f_0_8"></i><strong> Desayunos </strong><i
                     class="fa fa-leaf text-white f_0_8"></i></h3>
+            <h4 class="text-white">En nuestro restaurante le servimos desayunos, almuerzos y cenas nacionales. Disfrute una buena comida con una agradable vista a los volcanes</h4>
         </div>
     </div>
     <div class="col-md-6 p-2 h-236">
@@ -26,13 +27,15 @@
             <i class="fa fa-wifi text-light medium_icon"></i>
             <h3 class="text-light"><i class="fa fa-leaf text-white f_0_8"></i><strong> Wifi gratis </strong><i
                     class="fa fa-leaf text-white f_0_8"></i></h3>
+            <h4 class="text-white">Todas las habitacions con internet WIFI para su mayor comodidad.</h4>
         </div>
     </div>
     <div class="col-md-6 p-2 h-236">
         <div
             class="inside_container bg-white text-center section_three_box_shadow h-100 d-flex flex-column justify-content-center">
-            <h3 class="text_secondary_color"><i class="fa fa-leaf text_secondary_color f_0_8"></i><strong> Texto de ejemplo </strong><i class="fa fa-leaf text_secondary_color f_0_8"></i></h3>
-            <p>Solo al reservar directamente desde el sitio tiene la tarifa más barata.</p>
+            <h3 class="text_secondary_color"><i class="fa fa-leaf text_secondary_color f_0_8"></i><strong> Reserve </strong><i class="fa fa-leaf text_secondary_color f_0_8"></i></h3>
+            <h4>Para mas informacion, sera un gusto atenderle en el numero: <br> <a href="tel:+50244893766">+502 44893766</a> o al correo:
+                <a href="mailto:hoteljardinlapaz@gmail.com">hoteljardinlapaz@gmail.com</a> le atenderos los mas pronto posible.</h4>
         </div>
     </div>
     <div class="col-md-12 mt-5 mb-5">
@@ -40,18 +43,18 @@
                 reservar </strong><i class="fa fa-seedling text-white"></i></h1>
     </div>
     <div class="col-md-6 p-2 h-175">
-        <a href="" class="list-unstyled cursor-pointer">
+        <a href="https://www.booking.com/" class="no-style list-unstyled cursor-pointer">
             <div class="text-center section_three_box_shadow h-100 bg-dark d-flex flex-column justify-content-center">
                 <i class="fa fa-calendar text-white medium_icon"></i><br>
-                <p class="text-white"><strong>VERIFICAR DISPONIBILIDAD Y RESERVAR EN LINEA</strong></p>
+                <h4 class="text-white"><strong>VERIFICAR DISPONIBILIDAD Y RESERVAR EN LINEA</strong></h4>
             </div>
         </a>
     </div>
     <div class="col-md-6 p-2 h-175">
-        <a href="tel:+50244893766" class="list-unstyled cursor-pointer">
+        <a href="tel:+50244893766" class="no-style list-unstyled cursor-pointer">
             <div class="text-center section_three_box_shadow h-100 bg-dark d-flex flex-column justify-content-center">
                 <i class="fa fa-phone text-white medium_icon"></i><br>
-                <p class="text-white"><strong>LLAMENOS (+502) 4489 3766</strong></p>
+                <h4 class="text-white"><strong>LLAMENOS (+502) 4489 3766</strong></h4>
             </div>
         </a>
     </div>

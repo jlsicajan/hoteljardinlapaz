@@ -92,6 +92,26 @@
     }
 }
 
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+    .section_one {
+        .section_one_card {
+            overflow-y: auto;
+            max-height: 490px;
+        }
+    }
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+    .section_one {
+        .section_one_card {
+            overflow-y: auto;
+            max-height: 550px;
+        }
+    }
+}
+
 .section_four {
     .card_container {
         box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.30);
@@ -156,4 +176,20 @@
     width: 100%;
     height: 400px;
     background-color: grey;
+}
+
+a.no-style:link {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
+
+a.no-style:visited {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
+
+.footer_text{
+    font-size: 25px;
 }

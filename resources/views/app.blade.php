@@ -74,7 +74,7 @@
             $('.menu').removeClass('d-flex').hide().css('z-index', 0);
             $(this).removeClass('d-flex').addClass('d-none').hide().css('z-index', 0);
             $('.menu_sticky_bar').removeClass('d-none').addClass('d-flex').show().css('z-index', 1000);
-            
+
             $('.menu_sticky_reserve').css('z-index', 999);
         });
 

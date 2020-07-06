@@ -2,7 +2,7 @@
     <div class="col-md-3 p-sm-0 d-flex flex-column align-content-center justify-content-center mb-sm-2">
         <div class="contact_container background_negative_color p-5 section_three_box_shadow">
             <div class="logo_negative background_default mb-2 d-inline-block"></div>
-            <p class="text-white">Primera calle Canton 1 Apartamento 31-A Alotenango Guatemala</p>
+            <h4 class="text-white">Primera calle Canton 1 Apartamento 31-A Alotenango Guatemala</h4>
 
             <span class="text-white">Tel. <a href="tel:+50244893766">+502 4489 3766</a></span><br>
             <a href="mailto:hoteljardinlapaz@gmail.com">hoteljardinlapaz@gmail.com</a>

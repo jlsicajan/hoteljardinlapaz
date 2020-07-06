@@ -16,9 +16,10 @@
 <div class="menu d-none flex-column align-items-center justify-content-center">
     <div class="inside_menu">
         <h1 class="mb-4 cursor-pointer"><a class="text-white no_style_text" href="{{ route('home') }}">Inicio</a></h1>
-        <h1 class="mb-4 cursor-pointer"><a class="text-white no_style_text" href="{{ route('about-us') }}">Nosotros</a></h1>
-        <h1 class="mb-4 cursor-pointer"><a class="text-white no_style_text" href="{{ route('hotel') }}">Hotel</a></h1>
-        <h1 class="mb-4 cursor-pointer"><a class="text-white no_style_text" href="{{ route('services') }}">Servicios</a></h1>
-        <h1 class="mb-4 cursor-pointer"><a class="text-white no_style_text" href="{{ route('contact-us') }}">Contactanos</a></h1>
+        <h1 class="mb-4 cursor-pointer"><a class="text-white no_style_text" href="{{ route('rooms') }}">Habitaciones</a></h1>
+{{--        <h1 class="mb-4 cursor-pointer"><a class="text-white no_style_text" href="{{ route('about-us') }}">Nosotros</a></h1>--}}
+{{--        <h1 class="mb-4 cursor-pointer"><a class="text-white no_style_text" href="{{ route('hotel') }}">Hotel</a></h1>--}}
+{{--        <h1 class="mb-4 cursor-pointer"><a class="text-white no_style_text" href="{{ route('services') }}">Servicios</a></h1>--}}
+{{--        <h1 class="mb-4 cursor-pointer"><a class="text-white no_style_text" href="{{ route('contact-us') }}">Contactanos</a></h1>--}}
     </div>
 </div>

@@ -22,4 +22,7 @@ class FrontEndController extends Controller
     public function contact_us(){
         return view('frontend.contact_us');
     }
+    public function rooms(){
+        return view('frontend.rooms');
+    }
 }
