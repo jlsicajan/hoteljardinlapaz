@@ -7,22 +7,26 @@
     </div>
 </div>
 <div class="row col-md-12 padding-unset margin-x-unset wrapper">
-    <div class="masonry w-100">
-        @foreach($images_one as $image_one)
-            <div class="brick">
-                <a href="{{ $image_one }}" class="js-img-viwer" data-caption="" data-id="">
-                    <img src="{{ $image_one }}" width="100%" height=""/>
-                </a>
+    @if(isset($images_one))
+        <div class="masonry w-100">
+            @foreach($images_one as $image_one)
+                <div class="brick">
+                    <a href="{{ $image_one }}" class="js-img-viwer" data-caption="" data-id="">
+                        <img src="{{ $image_one }}" width="100%" height=""/>
+                    </a>
+                </div>
+            @endforeach
+        </div>
+    @endif
+    @if(isset($images_two))
+            <div class="masonry w-100">
+                @foreach($images_two as $image_one)
+                    <div class="brick">
+                        <a href="{{ $image_one }}" class="js-img-viwer" data-caption="" data-id="">
+                            <img src="{{ $image_one }}" width="100%" height=""/>
+                        </a>
+                    </div>
+                @endforeach
             </div>
-        @endforeach
-    </div>
-    <div class="masonry w-100">
-        @foreach($images_two as $image_one)
-            <div class="brick">
-                <a href="{{ $image_one }}" class="js-img-viwer" data-caption="" data-id="">
-                    <img src="{{ $image_one }}" width="100%" height=""/>
-                </a>
-            </div>
-        @endforeach
-    </div>
+    @endif
 </div>

@@ -16,5 +16,6 @@ Route::get('/', 'FrontEndController@index')->name('home');
 Route::get('/nosotros', 'FrontEndController@about_us')->name('about-us');
 Route::get('/hotel', 'FrontEndController@hotel')->name('hotel');
 Route::get('/habitaciones', 'FrontEndController@rooms')->name('rooms');
+Route::get('/restaurante', 'FrontEndController@restaurant')->name('restaurant');
 Route::get('/servicios', 'FrontEndController@services')->name('services');
 Route::get('/contactanos', 'FrontEndController@contact_us')->name('contact-us');

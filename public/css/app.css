@@ -681,6 +681,10 @@
   background-image: url("/images/hotel_images/room_21.jpg");
 }
 
+.restaurant_one {
+  background-image: url("/images/hotel_images/restaurant/restaurant.jpg");
+}
+
 .medium_icon {
   font-size: 30px !important;
 }
@@ -878,7 +882,7 @@ a.no-style:visited {
 }
 
 .footer_text {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 @media (max-width: 575.98px) {
