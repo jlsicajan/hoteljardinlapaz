@@ -1,4 +1,4 @@
-<div class="row vh100 section_one garden_one padding-50-px background_default">
+<div class="row vh100 section_one restaurant_one padding-50-px background_default">
     <div class="col-md-7"></div>
     <div class="col-md-5 section_one_card">
         <h1 class="text-center">Hotel Jardin La Paz</h1>
@@ -20,7 +20,7 @@
         <a href="https://www.facebook.com/hoteljardinlapaz" class="text-dark no_style_text mr-2" target="_blank">
             <i class="fab fa-facebook-square footer_icons large_icon"></i>
         </a>
-        <a href="https://www.instagram.com/hoteljardinlapaz" class="text-dark no_style_text" target="_blank">
+        <a href="https://www.instagram.com/hoteljardinlapaz_alotenango" class="text-dark no_style_text" target="_blank">
             <i class="fab fa-instagram footer_icons large_icon"></i>
         </a>
     </div>

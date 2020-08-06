@@ -9,7 +9,7 @@
                                                     ])
         @include('sections.section_five_generic', ['images_one' => ['/images/hotel_images/restaurant/kitchen_12.jpg',
                                                                 '/images/hotel_images/restaurant/food_8.jpg',
-                                                                '/images/hotel_images/restaurant/kitchen_4.jpg',
+                                                                '/images/hotel_images/kitchen_room23.jpg',
                                                                 '/images/hotel_images/restaurant/food_1.jpg',
                                                                 '/images/hotel_images/restaurant/food_9.jpg',
                                                                 '/images/hotel_images/restaurant/food_11.jpg']

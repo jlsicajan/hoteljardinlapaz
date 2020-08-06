@@ -45,8 +45,8 @@
             </a>
         </div>
         <div class="brick">
-            <a href="/images/hotel_images/kitchen_4.jpg" class="js-img-viwer-fit" data-caption="" data-id="">
-                <img src="/images/hotel_images/kitchen_4.jpg" width="100%" height=""/>
+            <a href="/images/hotel_images/kitchen_room23.jpg" class="js-img-viwer-fit" data-caption="" data-id="">
+                <img src="/images/hotel_images/kitchen_room23.jpg" width="100%" height=""/>
             </a>
         </div>
         <div class="brick">
