@@ -5,7 +5,7 @@
     <div class="container-fluid">
         @include('sections.section_one_generic', ['image_class_background' => 'restaurant_one', 'title' => 'Hotel Jardin La Paz', 'subtitle' => 'Conoce nuestro restaurante',
                                                     'description' => 'Prueba nuestras comidas tipicas, una autentica experiencia Guatemalteca.',
-                                                    'subdescription' => 'Un delicioso desayuno para iniciar el dia y que mejor que companarlo con una vista hermosa!'
+                                                    'subdescription' => 'Un delicioso desayuno para iniciar el dia y que mejor que acompañarlo con una vista hermosa!'
                                                     ])
         @include('sections.section_five_generic', ['images_one' => ['/images/hotel_images/restaurant/kitchen_12.jpg',
                                                                 '/images/hotel_images/restaurant/food_8.jpg',
