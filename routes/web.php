@@ -19,3 +19,4 @@ Route::get('/habitaciones', 'FrontEndController@rooms')->name('rooms');
 Route::get('/restaurante', 'FrontEndController@restaurant')->name('restaurant');
 Route::get('/servicios', 'FrontEndController@services')->name('services');
 Route::get('/contactanos', 'FrontEndController@contact_us')->name('contact-us');
+Route::get('/eventos', 'FrontEndController@events')->name('events');

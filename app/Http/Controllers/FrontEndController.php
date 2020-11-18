@@ -25,7 +25,7 @@ class FrontEndController extends Controller
     public function rooms(){
         return view('frontend.rooms');
     }
-    public function restaurant(){
-        return view('frontend.restaurant');
+    public function events(){
+        return view('frontend.events');
     }
 }
