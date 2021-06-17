@@ -28,4 +28,7 @@ class FrontEndController extends Controller
     public function events(){
         return view('frontend.events');
     }
+    public function restaurant(){
+        return view('frontend.restaurant');
+    }
 }
