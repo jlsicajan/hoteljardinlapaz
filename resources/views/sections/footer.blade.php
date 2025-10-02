@@ -6,7 +6,7 @@
         <a href="https://www.facebook.com/hoteljardinlapaz" class="text-dark no_style_text mr-2" target="_blank">
             <i class="fab fa-facebook-square footer_icons large_icon"></i>
         </a>
-        <a href="https://www.instagram.com/hoteljardinlapaz_alotenango" class="text-dark no_style_text" target="_blank">
+        <a href="https://www.instagram.com/jardinlapaz2020" class="text-dark no_style_text" target="_blank">
             <i class="fab fa-instagram footer_icons large_icon"></i>
         </a>
     </div>
