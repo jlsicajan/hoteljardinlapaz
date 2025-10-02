@@ -12,7 +12,7 @@
             @foreach($images_one as $image_one)
                 <div class="brick">
                     <a href="{{ $image_one }}" class="js-img-viwer" data-caption="" data-id="">
-                        <img src="{{ $image_one }}" width="100%" height=""/>
+                        <img src="{{ $image_one }}" width="100%" height="auto" style="display: block;"/>
                     </a>
                 </div>
             @endforeach
@@ -23,7 +23,7 @@
                 @foreach($images_two as $image_one)
                     <div class="brick">
                         <a href="{{ $image_one }}" class="js-img-viwer" data-caption="" data-id="">
-                            <img src="{{ $image_one }}" width="100%" height=""/>
+                            <img src="{{ $image_one }}" width="100%" height="auto" style="display: block;"/>
                         </a>
                     </div>
                 @endforeach
