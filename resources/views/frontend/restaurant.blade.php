@@ -8,15 +8,16 @@
                                                     'subdescription' => 'Un delicioso desayuno para iniciar el dia y que mejor que acompañarlo con una vista hermosa!'
                                                     ])
         @include('sections.section_five_generic', ['images_one' => ['/images/hotel_images/restaurant/kitchen_12.jpg',
-                                                                '/images/hotel_images/restaurant/food_8.jpg',
+                                                                '/images/hotel_images/new_images_2025/food_13.jpg',
                                                                 '/images/hotel_images/kitchen_room23.jpg',
-                                                                '/images/hotel_images/restaurant/food_1.jpg',
-                                                                '/images/hotel_images/restaurant/food_9.jpg',
-                                                                '/images/hotel_images/restaurant/food_11.jpg']
+                                                                '/images/hotel_images/new_images_2025/food_17.jpg',
+                                                                '/images/hotel_images/new_images_2025/food_15.jpg',
+                                                                '/images/hotel_images/new_images_2025/food_14.jpg']
                                                   ],
                                                   ['images_two' => [
                                                                 '/images/hotel_images/restaurant/restaurant_two.jpg',
-                                                                '/images/hotel_images/restaurant/restaurant_six.jpg',
+                                                                '/images/hotel_images/new_images_2025/food_19.jpg',
+                                                                '/images/hotel_images/new_images_2025/food_23.jpg',
                                                                 '/images/hotel_images/restaurant/restaurant_one.jpg',
                                                     ]])
         @include('sections.section_seven')

@@ -23,18 +23,18 @@
             </a>
         </div>
         <div class="brick">
-            <a href="/images/hotel_images/food_9.jpg" class="js-img-viwer" data-caption="" data-id="">
-                <img src="/images/hotel_images/food_9.jpg" width="100%" height=""/>
+            <a href="/images/hotel_images/new_images_2025/food_12.jpg" class="js-img-viwer" data-caption="" data-id="">
+                <img src="/images/hotel_images/new_images_2025/food_12.jpg" width="100%" height=""/>
             </a>
         </div>
         <div class="brick">
-            <a href="/images/hotel_images/frontal_8.jpg" class="js-img-viwer" data-caption="" data-id="">
-                <img src="/images/hotel_images/frontal_8.jpg" width="100%" height=""/>
+            <a href="/images/hotel_images/new_images_2025/volcano_6.jpg" class="js-img-viwer" data-caption="" data-id="">
+                <img src="/images/hotel_images/new_images_2025/volcano_6.jpg" width="100%" height=""/>
             </a>
         </div>
         <div class="brick">
-            <a href="/images/hotel_images/garden.jpg" class="js-img-viwer" data-caption="" data-id="">
-                <img src="/images/hotel_images/garden.jpg" width="100%" height=""/>
+            <a href="/images/hotel_images/new_images_2025/garden_5.jpg" class="js-img-viwer" data-caption="" data-id="">
+                <img src="/images/hotel_images/new_images_2025/garden_5.jpg" width="100%" height=""/>
             </a>
         </div>
     </div>
