@@ -11,7 +11,7 @@
         <h3>Todas las habitaciones con bano propio para su mayor comodidad.</h3>
         <hr>
         <h3>
-            <a href="https://www.google.com/maps/place/14%C2%B029'28.2%22N+90%C2%B048'12.4%22W/@14.491157,-90.805647,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d14.491157!4d-90.803453" class="text-dark no_style_text">Primera calle Canton 1 Apartamento 31-A Alotenango Sacatepequez</a>
+            <a href="https://www.google.com/maps/place/14%C2%B029'28.2%22N+90%C2%B048'12.4%22W/@14.491157,-90.805647,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d14.491157!4d-90.803453" class="text-dark no_style_text">Primera calle 4-57 Zona 5 San Juan Alotenango Sacatepequez, 03014</a>
         </h3>
         <hr>
         <a href="https://goo.gl/maps/tCLAXGZTiBNdNps47" class="text-dark no_style_text mr-2" target="_blank">
